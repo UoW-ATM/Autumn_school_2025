@@ -1,2 +1,42 @@
-# Autumn_school_2025
-UoW Transportation Research Laboratory Autumn School
+# Transportation Research Laboratory - Autumn School 2025
+UoW Transportation Research Laboratory (TRL) Autumn School - https://blog.westminster.ac.uk/trl/
+
+
+This repository contains the material and examples of data usage presented as part of the Autumn School of the Transportation Research Laboratory 2025.
+
+## TRL Autumn School
+
+<details>
+<summary>Agenda and material</summary>
+  
+- Monday – 27 October – Lectures :
+    - Introduction to air traffic management and mobility modelling
+    - Use of anonymised Mobile Network Data for transport modelling
+    - Modelling and simulating the system ([Mercury](https://github.com/UoW-ATM/Mercury) Agent-Based Model)
+    - Techniques for data analysis and modelling
+        - Process mining for air transport and simulation analysis
+        - Regression models for flight operations
+        - Clustering and trajectory analysis
+        
+- Tuesday – 28 October – Hands-on data:
+    - Data sources for air transport and beyond (see [Data and tools exploration](#data-and-tools-exploration))
+    - Example of research and models using open data sources
+    - Definition of problems/topics to tackle during the rest of the week
+    
+- Wednesday – Thursday – 29-30 October – working on problems/topics.
+
+- Friday – 31 October (hybrid (in person strongly recommended)):
+    - Presentation of results/models developed by groups
+ 
+</details>
+
+## Content
+
+### Data and tools exploration
+Different notebooks are provided to explore some open aviation datasets and libraries:
+
+- EUROCONTROL R&D Archive (Aviation Data Research): https://www.eurocontrol.int/dashboard/aviation-data-research
+  - [ECTL_RD/ECTL_RD_Archive.ipynb](ECTL_RD/ECTL_RD_Archive.ipynb): Exploration of datasets    
+- Open Performance Data Initiative (OPDI): https://www.opdi.aero/
+  - [OPDI/OPDI.ipynb](OPDI/OPDI.ipynb): Exploration of datasets
+
