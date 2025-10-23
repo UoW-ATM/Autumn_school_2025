@@ -1,0 +1,16 @@
+ECTL_RD/data/FNI025 R&D Data Description v10.pdf
+
+ECTL_RD/data/NEWS_ReadMe.txt
+
+*.csv.gz
+
+*.csv
+
+*.parquet
+OPDI/.ipynb_checkpoints/
+
+ECTL_RD/.ipynb_checkpoints/
+
+ECTL_RD/__pycache__/
+
+OPDI/__pycache__/
