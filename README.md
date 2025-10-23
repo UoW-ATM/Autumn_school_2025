@@ -43,3 +43,6 @@ Different notebooks are provided to explore some open aviation datasets and libr
 - OpenSky Network: https://opensky-network.org/
   - [opensky/opensky_exercise.ipynb](opensky/opensky_exercise.ipynb): Exercise using OpenSky ADS-B data
 
+
+### Installation
+Notebooks work with Python3.12, requirements in requirements.txt. We recommend to create a virtual environment.
