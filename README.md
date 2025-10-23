@@ -36,7 +36,10 @@ This repository contains the material and examples of data usage presented as pa
 Different notebooks are provided to explore some open aviation datasets and libraries:
 
 - EUROCONTROL R&D Archive (Aviation Data Research): https://www.eurocontrol.int/dashboard/aviation-data-research
-  - [ECTL_RD/ECTL_RD_Archive.ipynb](ECTL_RD/ECTL_RD_Archive.ipynb): Exploration of datasets    
+  - [ECTL_RD/ECTL_RD_Archive.ipynb](ECTL_RD/ECTL_RD_Archive.ipynb): Exploration of datasets
+  - [ECTL_RD/ECTL_RD_Archive_exercise.ipynb](ECTL_RD/ECTL_RD_Archive_exercise.ipynb): Exercise on R&D Archive data
 - Open Performance Data Initiative (OPDI): https://www.opdi.aero/
   - [OPDI/OPDI.ipynb](OPDI/OPDI.ipynb): Exploration of datasets
+- OpenSky Network: https://opensky-network.org/
+  - [opensky/opensky_exercise.ipynb](opensky/opensky_exercise.ipynb): Exercise using OpenSky ADS-B data
 
