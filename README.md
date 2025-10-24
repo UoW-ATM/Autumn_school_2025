@@ -42,7 +42,18 @@ Different notebooks are provided to explore some open aviation datasets and libr
   - [OPDI/OPDI.ipynb](OPDI/OPDI.ipynb): Exploration of datasets
 - OpenSky Network: https://opensky-network.org/
   - [opensky/opensky_exercise.ipynb](opensky/opensky_exercise.ipynb): Exercise using OpenSky ADS-B data
+- Environmental impact:
+  - [Climate/Climate.ipynb](Climate/Climate.ipynb): Computation of climate hotspots, emissions and total environmental impact of flights, using:
+    - [OpenAP](https://github.com/TUDelft-CNS-ATM/openap) library for emissions estimation (installed as a requirement)
+    - [climaccf](https://github.com/dlr-pa/climaccf/) library for climate hotspot estimation (as submodule)
 
 
 ### Installation
-Notebooks work with Python3.12, requirements in requirements.txt. We recommend to create a virtual environment.
+Notebooks work with Python3.12, requirements in requirements.txt. We recommend creating a virtual environment.
+
+As the repository includes a submodule (climaccf), you could clone the repo and the submodules with:
+`git clone --recurse-submodules https://github.com/UoW-ATM/Autumn_school_2025.git`
+
+If you already have the repository but not the submodules, remember to initialise them: 
+`git submodule update --init --recursive`
+
