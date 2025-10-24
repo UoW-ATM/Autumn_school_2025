@@ -18,3 +18,5 @@ OPDI/__pycache__/
 *.nc
 
 Climate/.ipynb_checkpoints/
+
+Climate/output/json/
