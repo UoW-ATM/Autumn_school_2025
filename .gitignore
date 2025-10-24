@@ -14,3 +14,7 @@ ECTL_RD/.ipynb_checkpoints/
 ECTL_RD/__pycache__/
 
 OPDI/__pycache__/
+
+*.nc
+
+Climate/.ipynb_checkpoints/

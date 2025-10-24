@@ -1,0 +1,3 @@
+[submodule "Climate/climaccf"]
+	path = Climate/climaccf
+	url = https://github.com/dlr-pa/climaccf
