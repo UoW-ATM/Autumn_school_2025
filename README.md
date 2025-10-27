@@ -10,13 +10,14 @@ This repository contains the material and examples of data usage presented as pa
 <summary>Agenda and material</summary>
   
 - Monday – 27 October – Lectures :
-    - Introduction to air traffic management and mobility modelling
+    - [Welcome](autumn_school_slides/1_Welcome.pdf) 
+    - [Introduction to air traffic management and mobility modelling](autumn_school_slides/2_Introduction_ATM.pdf)
     - Use of anonymised Mobile Network Data for transport modelling
-    - Modelling and simulating the system ([Mercury](https://github.com/UoW-ATM/Mercury) Agent-Based Model)
+    - [Modelling and simulating the system](autumn_school_slides/4_Mercury_Introduction.pdf) ([Mercury](https://github.com/UoW-ATM/Mercury) Agent-Based Model)
     - Techniques for data analysis and modelling
         - Process mining for air transport and simulation analysis
-        - Regression models for flight operations
-        - Clustering and trajectory analysis
+        - [Regression models for flight operations](autumn_school_slides/6_Models_for_flight_operations.pdf)
+        - [Clustering and trajectory analysis](autumn_school_slides/7_Aircraft_trajectory_usage.pdf)
         
 - Tuesday – 28 October – Hands-on data:
     - Data sources for air transport and beyond (see [Data and tools exploration](#data-and-tools-exploration))
