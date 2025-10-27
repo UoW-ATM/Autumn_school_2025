@@ -15,7 +15,7 @@ This repository contains the material and examples of data usage presented as pa
     - Use of anonymised Mobile Network Data for transport modelling
     - [Modelling and simulating the system](autumn_school_slides/4_Mercury_Introduction.pdf) ([Mercury](https://github.com/UoW-ATM/Mercury) Agent-Based Model)
     - Techniques for data analysis and modelling
-        - Process mining for air transport and simulation analysis
+        - [Process mining for air transport and simulation analysis](autumn_school_slides/5_Process_Mining_in_Aviation.pdf)
         - [Regression models for flight operations](autumn_school_slides/6_Models_for_flight_operations.pdf)
         - [Clustering and trajectory analysis](autumn_school_slides/7_Aircraft_trajectory_usage.pdf)
         
