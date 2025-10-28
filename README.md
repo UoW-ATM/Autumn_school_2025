@@ -12,7 +12,8 @@ This repository contains the material and examples of data usage presented as pa
 - Monday – 27 October – Lectures :
     - [Welcome](autumn_school_slides/1_Welcome.pdf) 
     - [Introduction to air traffic management and mobility modelling](autumn_school_slides/2_Introduction_ATM.pdf)
-    - Use of anonymised Mobile Network Data for transport modelling
+    - [Use of anonymised Mobile Network Data for transport modelling](autumn_school_slides/3_Anonymised_mobile_network_data_for_passenger_archetypes_and_modelling.pdf)
+      - Studies with mobility data from the Ministry of Transport of Spain available here: https://www.transportes.gob.es/ministerio/proyectos-singulares/estudios-de-movilidad-con-big-data/opendata-movilidad. 
     - [Modelling and simulating the system](autumn_school_slides/4_Mercury_Introduction.pdf) ([Mercury](https://github.com/UoW-ATM/Mercury) Agent-Based Model)
     - Techniques for data analysis and modelling
         - [Process mining for air transport and simulation analysis](autumn_school_slides/5_Process_Mining_in_Aviation.pdf)
