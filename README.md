@@ -22,7 +22,7 @@ This repository contains the material and examples of data usage presented as pa
         
 - Tuesday – 28 October – Hands-on data:
     - Data sources for air transport and beyond (see [Data and tools exploration](#data-and-tools-exploration))
-    - Example of research and models using open data sources
+    - [Example of research and models using open data sources](autumn_school_slides/8_Examples_of_research_on_air_transport.pdf)
     - Definition of problems/topics to tackle during the rest of the week
     
 - Wednesday – Thursday – 29-30 October – working on problems/topics.
